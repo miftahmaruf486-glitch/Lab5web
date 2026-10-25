@@ -9,21 +9,21 @@
 
 
 ## menambahkan foto
-![Gambar 1](perubahan_1.png)
-![Gambar 2](perubahan_2.png)
-![Gambar 3](perubahan_3.png)
-![Gambar 4](perubahan_4.png)
-![Gambar 5](perubahan_5.png)
-![Gambar 6](perubahan_6.png)
-![Gambar 7](perubahan_7.png)
-![Gambar 8](perubahan_8.png)
-![Gambar 9](perubahan_9.png)
-![Gambar 10](perubahan_10.png)
-![Gambar 11](perubahan_11.png)
-![Gambar 12](perubahan_12.png)
-![Gambar 13](perubahan_13.png)
-![Gambar 14](perubahan_14.png)
-![gambar 15](perubahan_15_miniproject.png)
+![Gambar 1](01-perubahan_1.png)
+![Gambar 2](02-perubahan_2.png)
+![Gambar 3](03-perubahan_3.png)
+![Gambar 4](04-perubahan_4.png)
+![Gambar 5](05-perubahan_5.png)
+![Gambar 6](06-perubahan_6.png)
+![Gambar 7](07-perubahan_7.png)
+![Gambar 8](08-perubahan_8.png)
+![Gambar 9](09-perubahan_9.png)
+![Gambar 10](10-perubahan_10.png)
+![Gambar 11](11-perubahan_11.png)
+![Gambar 12](12-perubahan_12.png)
+![Gambar 13](13-perubahan_13.png)
+![Gambar 14](14-perubahan_14.png)
+![gambar 15](15-perubahan_15_miniproject.png)
 
 ---
 
